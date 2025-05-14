@@ -13,7 +13,7 @@ import os
 # --- 主要配置 ---
 # 要爬取的网页URL列表
 target_urls = [
-    'https://physnya.top/posts/0vd8hhcp/', # 示例：央视新闻链接
+    'https://www.lemonfumo.top/index.php/archives/185', # 示例：博客文章链接
     #'https://www.example.com/'
 ]
 
