@@ -1,0 +1,14 @@
+# 忽略爬取到的文本文件
+scraped_website_text.txt
+input_text.txt
+# 忽略生成的词云图片文件
+website_wordcloud.png
+simple_wordcloud.png
+# 忽略 Python 编译生成的字节码文件
+*.pyc
+# 忽略可能的虚拟环境文件夹 (如果使用虚拟环境的话)
+venv/
+.venv/
+
+# 忽略其他你不想追踪的文件，比如日志文件等等
+# debug.log
